@@ -194,7 +194,7 @@ n1 = 2.5
 
 Booleanos
 ```
-Trabaja1 = True
-Trabaja2 = False
+n1 = True
+n2 = False
 ```
 
