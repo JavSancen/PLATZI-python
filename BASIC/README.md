@@ -1,4 +1,4 @@
-# PYTHON :tw-1f40d:
+# PYTHON 🐍
 
 Python es lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
 
