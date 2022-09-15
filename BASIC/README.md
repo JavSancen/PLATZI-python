@@ -173,3 +173,28 @@ print(nR)
 * Deben estar en minúsculas
 * Para separar las palabras usamos el guion bajo: _
 * Estas reglas son aplicadas al lenguaje Python, en otros lenguajes puede haber otras reglas.
+
+
+### TIPOS DE DATOS
+
+Strings
+```
+# Los textos pueden llevar "" o ''
+n1 = 'Francisco '
+n2 = 'Zúñiga'
+nR = n1 + n2
+print(nR)
+```
+
+Decimales
+```
+n1 = 2.5
+# La ' , ' no funciona porque Python esta basado en el idioma "Inglés"
+```
+
+Booleanos
+```
+Trabaja1 = True
+Trabaja2 = False
+```
+
