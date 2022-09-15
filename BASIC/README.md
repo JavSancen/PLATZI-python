@@ -76,3 +76,100 @@ Las características fundamentales que debe cumplir todo algoritmo son:
 * Un algoritmo debe ser finito. el algoritmo se debe terminar en algún momento; o sea, debe tener un número finito de pasos.
 
 * Un algoritmo debe ser legible: El texto que lo describe debe ser claro, tal que permita entenderlo y leerlo fácilmente.
+
+
+## OPERACIONES CON PYTHON
+
+SUMA
+```
+# En consola
+5 + 5
+
+# En editor de código
+print(5 + 5)
+```
+
+RESTA
+```
+# En consola
+5 - 5
+
+# En editor de código
+print(5 - 5)
+```
+
+MULTIPLICACIÓN
+```
+# En consola
+5 * 5
+
+# En editor de código
+print(5 * 5)
+```
+
+DIVISIÓN
+```
+# En consola
+5 / 25
+
+# En editor de código
+print(5 / 25)
+
+# En caso de división entera
+21 // 5
+# Para ver lo que resta
+21 % 5
+```
+
+POTENCIA
+```
+# En consola
+5 ** 5
+
+# En editor de código
+print(5 ** 5)
+```
+
+RAÍZ
+```
+# Hay dos métodos para ésta operación:
+9 ** (1/2)
+9 ** .5
+
+# En editor de código
+print(9 ** (1/2))
+```
+
+**Python sigue el orden de presedencia en operaciones**
+1 * Parentesis
+2 * Potencias y raices
+3 * multiplicaciones y divisiones
+4 * sumas y restas
+
+
+### VARIABLES
+
+Una variable = a una caja
+
+Las variables pueden recibir un nobre = identificador
+
+ASIGNAR VALORES
+
+```
+n1 = 230
+n2 = 400
+print(n1 + n2)
+```
+
+```
+n1 = 230
+n2 = 400
+nR = n1 + n2
+print(nR)
+```
+
+**Reglas en el uso de identificadores de variable**
+* No pueden empezar con un número.
+* Deben estar en minúsculas
+* Para separar las palabras usamos el guion bajo: _
+* Estas reglas son aplicadas al lenguaje Python, en otros lenguajes puede haber otras reglas.
