@@ -4,6 +4,10 @@ Python es lenguaje de programación multiparadigma, ya que soporta orientación 
 
 Python es muy elogiado por su elegante sintaxis y su código legible, si estás comenzando tu carrera de programación, Python se adapta a tus necesidades.
 
+* Facil
+* Elegante
+* Buenas practicas
+
 Python tienen una amplia gama de usos. Desde procesamiento de datos, al aprendizaje de máquina. Por ello, Python es elegido como el lenguaje de programación de muchas empresas y organizaciones.
 
 Campos de uso de Python:
@@ -32,3 +36,43 @@ Campos de uso de Python:
 * **Backend**
 
 * **Data Science**
+
+## ALGORITMOS
+
+Dentro de todo lenguaje de programación existe un núcleo llamado algoritmo. Un algoritmo es una serie de pasos ordenados para resolver un problema.
+Este es:
+
+* finito
+* ordenado
+* no ambiguo.
+
+
+### Definiciones de algoritmo:
+
+**Algoritmo:** Conjunto ordenado de operaciones sistemáticas que permite hacer un cálculo y hallar la solución de un tipo de problema.
+**Algoritmo:** Se denomina algoritmo a un grupo finito de operaciones organizadas de manera lógica y ordenada que permite solucionar un determinado problema.
+**Algoritmo:** una serie de instrucciones o reglas establecidas que, por medio de una sucesión de pasos, permiten arribar a un resultado o solución.
+**Algoritmo:** una secuencia de instrucciones que representan un modelo de solución para determinado tipo de problemas. O bien como un conjunto de instrucciones que realizadas en orden conducen a obtener la solución de un problema.
+
+### ¿Cómo se Diseña un Algoritmo?:
+
+En programación, un algoritmo establece, de manera genérica e informal, la secuencia de pasos o acciones que resuelve un determinado problema y, para representarlo, se utiliza, fundamentalmente, dos tipos de notación:
+
+* pseudocódigo
+* diagramas de flujo.
+
+### Partes de un Algoritmo:
+
+Todo algoritmo debe obedecer a la estructura básica de un sistema, es decir: entrada, proceso y salida.
+
+### Características de los Algoritmos:
+
+Las características fundamentales que debe cumplir todo algoritmo son:
+
+* Un algoritmo debe ser preciso e indicar el orden de realización de cada paso.
+
+* Un algoritmo debe estar definido. Si se sigue un algoritmo dos veces, se debe obtener el mismo resultado cada vez.
+
+* Un algoritmo debe ser finito. el algoritmo se debe terminar en algún momento; o sea, debe tener un número finito de pasos.
+
+* Un algoritmo debe ser legible: El texto que lo describe debe ser claro, tal que permita entenderlo y leerlo fácilmente.
