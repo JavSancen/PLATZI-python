@@ -156,15 +156,15 @@ Las variables pueden recibir un nobre = identificador
 ASIGNAR VALORES
 
 ```
-n1 = 230
-n2 = 400
-print(n1 + n2)
+nx = 230
+ny = 400
+print(nx + ny)
 ```
 
 ```
-n1 = 230
-n2 = 400
-nR = n1 + n2
+nx = 230
+ny = 400
+nR = nx + ny
 print(nR)
 ```
 
@@ -180,21 +180,57 @@ print(nR)
 Strings
 ```
 # Los textos pueden llevar "" o ''
-n1 = 'Francisco '
-n2 = 'Zúñiga'
-nR = n1 + n2
+nx = 'Francisco '
+ny = 'Zúñiga'
+nR = nx + ny
 print(nR)
 ```
 
 Decimales
 ```
-n1 = 2.5
+nx = 2.5
 # La ' , ' no funciona porque Python esta basado en el idioma "Inglés"
 ```
 
 Booleanos
 ```
-n1 = True
-n2 = False
+nx = True
+ny = False
 ```
 
+### Operadores lógicos
+* and ( y ): compara dos valores, y si ambos son verdaderos, devuelve True.
+* or ( ó ): si al comparar dos valores y uno de los dos se cumple, devuelve True. Solo * devuelve falso cuando los dos valores no se cumplen.
+* not ( no): invierte el valor de una variable, dando el valor contrario al de la variable evaluada.
+
+### Operadores de comparación
+* == ( igual qué ): determina si dos valores son iguales o no.
+* != (diferente de): determina si dos valores son distintos o no. Si los valores son diferentes devuelve True, si son iguales devuelve False.
+* > (mayor que): compara dos valores, y determina si es mayor que el otro.
+* < (menor que): compara dos valores y determina si es menor que el otro.
+* >= (mayor o igual): compara dos valores y determinas si es mayor o igual que el otro.
+* <= (menor o igual): compara dos valores y determinas si es menor o igual que el otro.
+
+```
+nx = True
+ny = False
+
+n2 and n1
+# Esto imprime False
+
+n1 or n2
+# Esto imprime True
+
+not n1
+# False
+
+not n2
+# True
+
+nx = 10
+ny = 10
+
+nx == ny
+# True
+
+```
